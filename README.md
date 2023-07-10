@@ -4,7 +4,7 @@ I’m a Software Engineer with over 23 years of experience in the IT industry wo
 
 ✔️ As a Blockchain Engineer I have experience developing smart contracts using Solidity, Hardhat, IPFS, KMS, Chainlink, TheGraph and with the standards like ERC20, ERC721, ERC721A, ERC1155 on compatible EVM networks.
 
-✔️ As an Artificial Intelligence enthusiast, I have worked with Uberduck (song generation) and OpenAI integrations like GPT (text completion and conversation), DALL-E (image generation) and Whisper (speech recognition).
+✔️ As an Artificial Intelligence enthusiast, I have worked using Uberduck (for song generation) and OpenAI integrations like GPT (text completion and conversation), DALL-E (image generation) and Whisper (speech recognition).
 
 ✔️ As a DevSecOps I have created pipelines for CI/CD using Azure DevOps, Terraform for infrastructure automation on Azure, and added validation layers to pipelines using tools like SonarCloud and WhiteSource.
 
